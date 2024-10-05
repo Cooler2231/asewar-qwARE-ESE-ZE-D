@@ -6,7 +6,7 @@ let jokers = [
         "{C:attention}round{}, loses {C:purple}1{} XP",
         "per hand played"
     ],
-   image_url: "img/j_joker.png",
+   image_url: "img/j_energybar.png",
     rarity: "Uncommon"
 }
 ]
